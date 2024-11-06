@@ -2,6 +2,9 @@ Mi nombre es Diana
 
 Me gusta
 - Bailar
-- Ver peliculas
+- Hacer ejercicio
+- Leer libros
+- Aprender cosas nuevas
+- Viajar 
 
-Mi nombre de ususario de git es: [DianaGarcia](https://github.com/DGC44/)
+Mi nombre de usuario de git es: [DianaGarcia](https://github.com/DGC44/)
