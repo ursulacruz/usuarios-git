@@ -7,4 +7,4 @@ Me gusta
 - Aprender cosas nuevas
 - Viajar 
 
-Mi nombre de usuario de git es: [DianaGarcia](https://github.com/DGC44/)
+Mi nombre de usuario de git es: [Diana García](https://github.com/DGC44/)
